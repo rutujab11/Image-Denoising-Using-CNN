@@ -35,7 +35,7 @@ Conv2D (3,3,128)	  Conv2DTanspose (14,14,32)
 ## Dataset: 
 Fashion-MNIST is a dataset of Zalando's article images—consisting of a training set of 60,000 examples and a test set of 10,000 examples. 
 Each example is a 28x28 grayscale image, associated with a label from 10 classes:
-•	0 T-shirt/top \n
+•	0 T-shirt/top
 •	1 Trouser
 •	2 Pullover
 •	3 Dress
